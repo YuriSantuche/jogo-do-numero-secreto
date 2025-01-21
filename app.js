@@ -12,7 +12,7 @@ function alterarTexto(tag, texto){
 exibirMensagemIncial();
 function exibirMensagemIncial(){
     alterarTexto('h1','Jogo do número secreto.');
-    alterarTexto('p','Escolha um número entre 1 e 50.')
+    alterarTexto('p','Adivinhe um número entre 1 e 50.')
 }
 
 function verificarChute(){
